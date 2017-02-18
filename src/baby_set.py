@@ -1,5 +1,6 @@
 # baby_set.py
-
+# Sena, Fred 2-17-17
+# Homework 4
 class BabySet:
 	""" A class the mimics the behavior of python's built in 
 	Set class. Implemented as a list."""
